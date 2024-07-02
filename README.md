@@ -3,4 +3,4 @@
 Aqui são estão descritos exemplo de rotas contruiidas para demosntrar a simplicidade e objetivo do flask.
 
 # Pesquisa Utilizando URL
-URL, do inglês Uniform Resource Locator, é uma string que usamos para identificar um computador ou um recurso em uma rede. Normalmente, usamos para descrever um arquivo ou serviço na internet, neste aquivo há demostração de como fazer uma pesquisa direto na URL, aqui temos dois codigos o primeiro informando a chave do dicionário cores_das frutas ele devolve no navegador o valor encontrado no dicionário, já o segundo tem um código segue a mesma linah mas com um dicionário maior para demostrar o poder fo flask.
+URL, do inglês Uniform Resource Locator, é uma string que usamos para identificar um computador ou um recurso em uma rede. Normalmente, usamos para descrever um arquivo ou serviço na internet, neste aquivo há demostração de como fazer uma pesquisa direto na URL, aqui temos dois codigos o primeiro informando a chave do dicionário cores_das frutas ele devolve no navegador o valor encontrado no dicionário, já o segundo tem um código segue a mesma linha mas com um dicionário maior para demostrar o poder fo flask.
